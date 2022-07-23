@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ziadamr1001@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1dP4P3Dz-cBQrQ9hdwynyf-R2mUNg0gvn/view?usp=sharing](https://drive.google.com/file/d/1dP4P3Dz-cBQrQ9hdwynyf-R2mUNg0gvn/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1dP4P3Dz-cBQrQ9hdwynyf-R2mUNg0gvn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Amr</h1>
-<h3 align="center">A Senior Computer Science Student at Cairo University</h3>
+<h3 align="center">A Fresh Graduate Software Engineer</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
 

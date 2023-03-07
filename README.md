@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ziad Amr</h1>
-<h3 align="center">A Fresh Graduate Software Engineer</h3>
-
-- 🌱 I’m currently learning **Spring Framework**
+<h3 align="center">Junior Backend Engineer</h3>
 
 - 📫 How to reach me **ziadamr1001@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1dP4P3Dz-cBQrQ9hdwynyf-R2mUNg0gvn/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ycMxBLsBLg5QyENx_Jfx1dgpb8-lXJwQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

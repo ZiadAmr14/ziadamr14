@@ -3,6 +3,10 @@
 
 - 📫 How to reach me **ziadamr1001@gmail.com**
 
+- Bachelor's Degree in Computer Science from Cairo university.
+
+- Currently doing my mandatory military service.
+
 - 📄 Know about my experiences (https://drive.google.com/file/d/1ycMxBLsBLg5QyENx_Jfx1dgpb8-lXJwQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

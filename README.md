@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Work Experience
 
-### [Specialized Business Solutions - SBS]
+### Specialized Business Solutions - SBS
 #### Java Backend Developer | October 2023 - Present
 - Developing a digital parking system to automate and streamline parking management.
 - Converting existing REST endpoints to gRPC for enhanced efficiency and security.
@@ -17,7 +17,7 @@
 - Contributed to the development of Soft_POS, a fintech product handling financial transactions through a mobile application.
 - Upgraded the ISO8583 standard implementation to ISO20022 (NEXO) for standardized interactions across card issuers and banks.
 
-### [Sprints]
+### Sprints
 #### Cloud DevOps Intern | August 2021 - October 2021
 - Created an AWS infrastructure for hosting a reservation web application for people with disabilities.
 - Implemented a CI/CD pipeline using Jenkins for automated deployment.
@@ -26,14 +26,14 @@
 
 ## 🚀 Relevant Projects
 
-### [Road Rescuing Facilitation Application] (Graduation Project)
+### Road Rescuing Facilitation Application (Graduation Project)
 - Utilized Java, Spring Boot, and ReactJS for a towing and spare parts application using shortest path algorithms.
 - Developed the administration dashboard to assess and verify information provided by registered service providers.
 
-### [Twitter REST-API] — Java, Spring Boot
+### Twitter REST-API — Java, Spring Boot
 - Implemented a REST API capable of reading a JSON file and providing information through simple HTTP requests.
 
-### [Reservation System for People with Disabilities] — AWS, Docker, Jenkins, Linux
+### Reservation System for People with Disabilities — AWS, Docker, Jenkins, Linux
 - Deployed a Mean Stack web application for persons with disabilities as a graduation project for the DevOps track at Sprints.
   
 ---
